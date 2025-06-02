@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Donatas</h1>
 <h3 align="center">A passionate QA specialist from Lithuania 🔍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasikas123&label=Profile%20views&color=0e75b6&style=flat" alt="pasikas123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddailide&label=Profile%20views&color=0e75b6&style=flat" alt="ddailide" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
